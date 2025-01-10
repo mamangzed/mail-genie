@@ -1,0 +1,53 @@
+{
+  "name": "mail-genie",
+  "version": "1.0.1",
+  "description": "A Node.js library for generating random emails, fetching domains, and parsing email content.",
+  "main": "index.js",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "axios": "^1.0.0",
+    "cheerio": "^1.0.0",
+    "he": "^1.0.0",
+    "html-to-text": "^8.0.0"
+  },
+  "keywords": [
+    "email",
+    "parser",
+    "generator",
+    "otp",
+    "temp-mail",
+    "temporary-email",
+    "email-verification",
+    "email-utility",
+    "random-email",
+    "email-service",
+    "email-api",
+    "fake-email",
+    "fake-mail",
+    "disposable-email",
+    "mail",
+    "mailbox",
+    "email-management",
+    "email-testing",
+    "spam-email",
+    "email-simulator",
+    "virtual-email",
+    "secure-email",
+    "anonymous-email",
+    "test-email",
+    "email-generator",
+    "email-handler",
+    "auto-email"
+  ],
+  "author": "Wanda Hadis Suara",
+  "license": "MIT",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/mamangzed/mail-genie"
+},
+"bugs": {
+  "url": "https://github.com/mamangzed/mail-genie/issues"
+},
+"homepage": "https://github.com/mamangzed/mail-genie#readme"
+
+}
